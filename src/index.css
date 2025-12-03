@@ -22,3 +22,17 @@
 :focus-visible {
     outline: -webkit-focus-ring-color auto 0px;
 }
+.slick-dots .slick-active {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    
+}
+.slick-dots .slick-active div {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+    background-color: #ff593c;
+     width: 22px;
+    height: 22px;
+}
