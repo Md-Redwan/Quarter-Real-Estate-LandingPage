@@ -25,7 +25,7 @@ const AboutUs = () => {
         </div>
         <div className="w-[50%]">
           <div className="mt-14">
-            <h6 className="font-nunito font-bold py-1 px-6 bg-[#ee9d9d9c] text-[#FF5A3C] rounded-2xl inline">
+            <h6 className="font-nunito font-bold py-1 px-6 bg-[#ee9d9d9c] text-primary rounded-2xl inline">
               About Us
             </h6>
             <h2 className="font-poppins font-bold text-[44px] mt-4">
@@ -60,19 +60,19 @@ const AboutUs = () => {
                     <h4>Complete 24/7 Security</h4>
                 </div>
             </div>
-            <div className="w-[506px] h-[85px] border-l-4 p-4 border-[#FF5A3C] text-[#5C727D] font-nunito bg-[#f2cdc6cc] my-[33px]">
+            <div className="w-[506px] h-[85px] border-l-4 p-4 border-primary text-[#5C727D] font-nunito bg-[#f2cdc6cc] my-[33px]">
                 <p>
                     "Enimad minim veniam quis nostrud exercitation <br /> llamco laboris. Lorem ipsum dolor sit amet"
                 </p>
             </div>
-            <button className="py-[13px] px-9.5 bg-[#FF5A3C] text-white cursor-pointer">Know More</button>
+            <button className="py-[13px] px-9.5 bg-primary text-white cursor-pointer">Know More</button>
           </div>
         </div>
       </div>
       <Counter/>
       <div className="container flex justify-evenly pb-29.5">
         <div>
-            <h6 className="font-nunito font-bold py-1 px-6 bg-[#ee9d9d9c] text-[#FF5A3C] rounded-2xl inline">
+            <h6 className="font-nunito font-bold py-1 px-6 bg-[#ee9d9d9c] text-primary rounded-2xl inline">
               About Us
             </h6>
             <h2 className="font-poppins font-bold text-[44px] mt-[17px]">
@@ -83,19 +83,19 @@ const AboutUs = () => {
             </p>
             <div className="font-nunito font-bold text-[#0A2C3D] mt-[25px] flex flex-col gap-4.5">
               <p>
-                <span className="text-[#FF5A3C]">-</span>
+                <span className="text-primary">-</span>
                 Live Music Cocerts at Luviana
               </p>
               <p>
-                <span className="text-[#FF5A3C]">-</span>
+                <span className="text-primary">-</span>
                 Our SecretIsland Boat Tour is Just for You
               </p>
               <p>
-                <span className="text-[#FF5A3C]">-</span>
+                <span className="text-primary">-</span>
                 Live Music Cocerts at Luviana
               </p>
               <p>
-                <span className="text-[#FF5A3C]">-</span>
+                <span className="text-primary">-</span>
                 Live Music Cocerts at Luviana
               </p>
             </div>

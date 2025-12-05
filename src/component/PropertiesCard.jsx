@@ -35,7 +35,7 @@ const PropertiesCard = ({PropertiesImg, PropertiesLocation, PropertiesPrice ="34
         </div>
       </div>
       <div className="px-6 mt-[23px] font-poppins">
-        <h4 className="text-[#FF5A3C] font-medium text-lg ">
+        <h4 className="text-primary font-medium text-lg ">
           $ {PropertiesPrice} <span className="text-[12px]">/Month</span>
         </h4>
         <h3 className="font-bold text-[22px] mt-1.5 mb-[9px]">
@@ -86,13 +86,13 @@ const PropertiesCard = ({PropertiesImg, PropertiesLocation, PropertiesPrice ="34
             </div>
           </div>
           <div className="flex gap-[11px]">
-            <div className="w-6.5 h-[23px] bg-[#EDEDED] rounded-xs flex justify-center items-center hover:bg-[#FF5A3C] hover:text-white cursor-pointer">
+            <div className="w-6.5 h-[23px] bg-[#EDEDED] rounded-xs flex justify-center items-center hover:bg-primary hover:text-white cursor-pointer">
               <AiOutlineExpandAlt/>
             </div>
-            <div className="w-6.5 h-[23px] bg-[#EDEDED] rounded-xs flex justify-center items-center hover:bg-[#FF5A3C] hover:text-white cursor-pointer">
+            <div className="w-6.5 h-[23px] bg-[#EDEDED] rounded-xs flex justify-center items-center hover:bg-primary hover:text-white cursor-pointer">
               <IoMdHeartEmpty/>
             </div>
-            <div className="w-6.5 h-[23px] bg-[#EDEDED] rounded-xs flex justify-center items-center hover:bg-[#FF5A3C] hover:text-white cursor-pointer">
+            <div className="w-6.5 h-[23px] bg-[#EDEDED] rounded-xs flex justify-center items-center hover:bg-primary hover:text-white cursor-pointer">
               <GoPlusCircle/>
             </div>
           </div>
