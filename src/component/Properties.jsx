@@ -55,7 +55,7 @@ const Properties = () => {
   return (
     <div>
       <div className=" pt-29.5 pb-29">
-        <div className="container text-center mb-9">
+        <div className="container text-center pb-9">
           <h6 className="font-nunito font-bold py-1 px-6 bg-[#ee9d9d9c] text-primary rounded-2xl inline">
             Properties
           </h6>
