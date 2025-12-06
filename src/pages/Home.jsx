@@ -8,6 +8,8 @@ import Properties from '../component/Properties'
 import ApartmentSketch from '../component/ApartmentSketch'
 import VideoSection from '../component/VideoSection'
 import FeaturedListings from '../component/FeaturedListings'
+import OurTestimonial from '../component/OurTestimonial'
+import NewsAndBlogs from '../component/NewsAndBlogs'
 
 const Home = () => {
   return (
@@ -20,6 +22,8 @@ const Home = () => {
       <ApartmentSketch/>
       <VideoSection/>
       <FeaturedListings/>
+      <OurTestimonial/>
+      <NewsAndBlogs/>
     </div>
   )
 }
