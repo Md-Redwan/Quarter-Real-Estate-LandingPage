@@ -37,3 +37,12 @@
      width: 22px;
     height: 22px;
 }
+
+.NewsAndBlogs-BgImg1{
+  width: 370px;
+  height: ;
+  background-image: url("./assets/NewsAndBlogsImg1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
