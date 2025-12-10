@@ -7,6 +7,7 @@
   --breakpoint-md: 600px;
   --breakpoint-lg: 1024px;
   --breakpoint-xl: 1300px;
+  --breakpoint-xxl: 1600px;
   --font-poppins: "Poppins", sans-serif;
   --font-nunito: "Nunito", sans-serif;
   --shadow-box: 0 0 7px rgba(0, 0, 0, 0.25);
@@ -40,8 +41,32 @@
 
 .NewsAndBlogs-BgImg1{
   width: 370px;
-  height: ;
+  height: 250px;
   background-image: url("./assets/NewsAndBlogsImg1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.NewsAndBlogs-BgImg2{
+  width: 370px;
+  height: 250px;
+  background-image: url("./assets/NewsAndBlogsImg2.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.NewsAndBlogs-BgImg3{
+  width: 370px;
+  height: 530px;
+  background-image: url("./assets/NewsAndBlogsImg3.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.NewsAndBlogs-BgImg4{
+  width: 370px;
+  height: 530px;
+  background-image: url("./assets/NewsAndBlogsImg4.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

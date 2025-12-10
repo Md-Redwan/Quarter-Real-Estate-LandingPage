@@ -63,7 +63,7 @@ const Properties = () => {
             Featured Listings
           </h2>
         </div>
-        <div className="w-[90%] px-20 m-auto">
+        <div className="w-full xl:w-[95%] xxl:w-[90%] m-auto">
           <Slider {...settings}>
             <div className="px-2 pb-5">
               <PropertiesCard
