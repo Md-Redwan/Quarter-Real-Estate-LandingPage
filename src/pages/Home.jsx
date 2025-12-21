@@ -10,6 +10,7 @@ import VideoSection from '../component/VideoSection'
 import FeaturedListings from '../component/FeaturedListings'
 import OurTestimonial from '../component/OurTestimonial'
 import NewsAndBlogs from '../component/NewsAndBlogs'
+import Footer from '../component/Footer'
 
 const Home = () => {
   return (
@@ -24,6 +25,7 @@ const Home = () => {
       <FeaturedListings/>
       <OurTestimonial/>
       <NewsAndBlogs/>
+      <Footer/>
     </div>
   )
 }
